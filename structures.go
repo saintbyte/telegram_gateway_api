@@ -1,3 +1,4 @@
 package telegram_gateway_api
 
-type Config struct{}
+// See:
+//      send_verification_message.go - SendVerificationMessageRequest
